@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f34e29f-8b07-47f4-96e6-6b4a53367874" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/img/photos/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/img/photos/31.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
@@ -26,6 +27,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/static/img/photos" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -37,11 +43,18 @@
       <option name="presentableId" value="Default" />
       <updated>1584315126619</updated>
       <workItem from="1584315130025" duration="4949000" />
-      <workItem from="1587330235052" duration="357000" />
+      <workItem from="1587330235052" duration="504000" />
+      <workItem from="1591539858982" duration="3379000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591539922961">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1591539922961" />
   </component>
 </project>
