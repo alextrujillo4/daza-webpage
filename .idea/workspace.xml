@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f34e29f-8b07-47f4-96e6-6b4a53367874" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/static/img/photos/30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/img/photos/31.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
@@ -32,6 +30,13 @@
       <recent name="$PROJECT_DIR$/public/static/img/photos" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Daza" type="FirefoxRemoteDebugType" editBeforeRun="true">
+      <method v="2">
+        <option name="LaunchBrowser.Before.Run" url="http://localhost:63342/daza/public/index.html" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -44,7 +49,8 @@
       <updated>1584315126619</updated>
       <workItem from="1584315130025" duration="4949000" />
       <workItem from="1587330235052" duration="504000" />
-      <workItem from="1591539858982" duration="3379000" />
+      <workItem from="1591539858982" duration="3754000" />
+      <workItem from="1593190414130" duration="638000" />
     </task>
     <servers />
   </component>
@@ -52,9 +58,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="104" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591539922961">
+    <state x="368" y="143" key="#Daza" timestamp="1593190759952">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="104" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1591539922961" />
+    <state x="368" y="143" key="#Daza/0.0.1280.800@0.0.1280.800" timestamp="1593190759952" />
+    <state x="104" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593190767565">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1593190767565" />
   </component>
 </project>
